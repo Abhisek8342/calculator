@@ -1,0 +1,41 @@
+body{
+    background-color:#C9EEFF ;
+}
+h1{
+    text-align: center;
+    color:#57C5B6;
+    font-size: 4rem;
+}
+.back{
+     position: relative;
+     top: 2rem;
+     left: 38rem;
+    background: linear-gradient(to top,gray,gray);
+    width: 19rem;
+    height: 32rem;
+    /* background-color: red; */
+}
+.txt{
+    border: none;
+    height: 5rem;
+    width: 18.8rem;
+    font-size: 2rem;
+}
+.row1{
+    display: inline-block;
+    border-radius: 2rem;
+    border: none;
+    background-color: aliceblue;
+    font-size: 2rem;
+    margin: 0.5rem ;
+    margin-left: 0.9rem;
+    padding: 0.8rem;
+}
+#clear{
+    background-color: #E3CCAE;
+    color: white;
+}
+#equal{
+    background-color: #FFD966;
+    color: white;
+}
